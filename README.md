@@ -4,6 +4,7 @@
 Este repositório contém cinco programas simples desenvolvidos em Python como parte de uma atividade prática de introdução à programação. Os programas estão organizados em um menu interativo que permite ao usuário escolher qual executar.
 
 📋 Descrição dos Programas
+
 Programa de Saudação Exibe a mensagem "Hello, world!" na tela.
 
 Calculadora de Soma Soma dois números fixos (numero1 = 12 e numero2 = 14) e exibe o resultado.
@@ -17,6 +18,7 @@ Calculadora de Número Inteiro (Diferença) Lê quatro valores inteiros e calcul
 
 
 ▶️ Como Executar
+
 Clone o repositório:
 
 bash
@@ -24,23 +26,26 @@ bash
 git clone git@github.com:SEU_USUARIO/atividade-pratica-01.git
 cd atividade-pratica-01
 
+
 Execute o script principal:
 
 bash
 python atividade_pratica_01.py
+
 🛠 Requisitos
 Python 3.x instalado
 
 Terminal ou Bash configurado
 
 📁 Estrutura do Projeto
+
 Código
 atividade-pratica-01/
+
 ├── atividade_pratica_01.py
 └── README.md
 
 
 📌 Autor
 Nome: Alefe Schulz
-
 Email: alefe.schulz@gmail.com
